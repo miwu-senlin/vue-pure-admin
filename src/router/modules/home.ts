@@ -10,7 +10,8 @@ export default {
   meta: {
     icon: "homeFilled",
     title: $t("menus.hshome"),
-    rank: home
+    rank: home,
+    showLink: false
   },
   children: [
     {

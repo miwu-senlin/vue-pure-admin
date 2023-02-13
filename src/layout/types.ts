@@ -1,14 +1,14 @@
 import type { IconifyIcon } from "@iconify/vue";
 
 export const routerArrays: Array<RouteConfigs> = [
-  {
-    path: "/welcome",
-    parentPath: "/",
-    meta: {
-      title: "menus.hshome",
-      icon: "homeFilled"
-    }
-  }
+  // {
+  //   path: "/welcome",
+  //   parentPath: "/",
+  //   meta: {
+  //     title: "menus.hshome",
+  //     icon: "homeFilled"
+  //   }
+  // }
 ];
 
 export type routeMetaType = {

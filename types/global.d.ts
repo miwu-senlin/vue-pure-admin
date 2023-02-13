@@ -96,6 +96,7 @@ declare global {
     MenuArrowIconNoTransition?: boolean;
     CachingAsyncRoutes?: boolean;
     TooltipEffect?: Effect;
+    ShowHome?: boolean;
     MapConfigure?: {
       amapKey?: string;
       options: {
